@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "overrides": {
+     "emi_create_schematics": {
+		"depends": {},
+		"breaks": {},
+		"suggests":{}
+	}
+  }
+}

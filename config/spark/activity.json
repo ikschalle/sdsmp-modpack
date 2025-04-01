@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "ikschalle",
+      "uniqueId": "73ff6b3e-824f-4378-9b07-8abc3831cc07"
+    },
+    "time": 1741633005497,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/k8t7Q2UWgR"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ikschalle",
+      "uniqueId": "73ff6b3e-824f-4378-9b07-8abc3831cc07"
+    },
+    "time": 1741283812638,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/lrHk7qdmeA"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ikschalle",
+      "uniqueId": "73ff6b3e-824f-4378-9b07-8abc3831cc07"
+    },
+    "time": 1741283619627,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/F7qYAFYs9C"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ikschalle",
+      "uniqueId": "73ff6b3e-824f-4378-9b07-8abc3831cc07"
+    },
+    "time": 1741282961754,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/BoFmDdDj6y"
+    }
+  }
+]

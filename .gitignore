@@ -1,0 +1,27 @@
+# Ignore all files in .gitignore dir
+/*
+
+
+# Exceptions
+
+#In dir
+!.gitignore
+!servers.dat
+!shaderpacks/
+!mods/
+!config/
+!resourcepacks/
+
+#Journeymap
+!journeymap/
+journeymap/*
+!journeymap/config/
+!journeymap/config/*
+
+#Figura
+!figura/
+figura/*
+!figura/cache/
+figura/cache/*
+!figura/cache/permissions.nbt
+!figura/cache/settings.nbt
