@@ -132,7 +132,7 @@
     },
     "quiver": {
       "armor_render_offset": -1.0,
-      "render_mode": "THIGH",
+      "render_mode": "HIDDEN",
       "skeleton_render_mode": "THIGH",
       "overlay": true,
       "mouse_movement_in_gui": true,
