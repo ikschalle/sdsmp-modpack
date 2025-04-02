@@ -6,12 +6,16 @@
 #In dir
 !.gitignore
 !servers.dat
-!shaderpacks/
-!mods/
 !config/
 
+!shaderpacks/
+shaderpacks/ignore_*
+
+!mods/
+mods/ignore_*
+
 !resourcepacks/
-resourcepacks/ignored/
+resourcepacks/ignore_*
 
 #Journeymap
 !journeymap/
