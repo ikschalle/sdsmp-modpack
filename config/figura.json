@@ -3,5 +3,5 @@
   "nameplate_render": 1,
   "action_wheel_button": "key.keyboard.y",
   "wardrobe_button": "key.keyboard.right.bracket",
-  "default_permission_level": 3
+  "default_permission_level": 4
 }
