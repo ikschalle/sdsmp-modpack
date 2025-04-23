@@ -9,9 +9,9 @@
 
 !config/
 config/*
-!config/jade
-!config/presencefootsteps
-!config/sounds
+!config/jade/
+!config/presencefootsteps/
+!config/sounds/
 !config/ambientsounds-client.json
 !config/figura.json
 !config/railways-client.json
