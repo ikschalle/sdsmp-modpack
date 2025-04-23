@@ -1,8 +1,0 @@
-{
-  "CONFIG_VERSION": 1,
-  "nameplate_render": 1,
-  "inventory_scissor": false,
-  "action_wheel_button": "key.keyboard.y",
-  "wardrobe_button": "key.keyboard.right.bracket",
-  "default_permission_level": 4
-}
