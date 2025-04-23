@@ -6,21 +6,33 @@
 #In dir
 !.gitignore
 !servers.dat
+
 !config/
+config/*
+!config/jade
+!config/presencefootsteps
+!config/sounds
+!config/ambientsounds-client.json
+!config/figura.json
+!config/railways-client.json
+!config/SeasonHUD-client.toml
+!config/supplementaries-client.json
+!config/mapfrontiers-client.toml
+!config/create-client.toml
 
 !mods/
+#prefix a mod with ignore_ to exclude
 mods/ignore_*
 
 !resourcepacks/
-resourcepacks/ignore_*
+#prefix a resourcepack with ignore_ to exclude
+resourcepacks/ignore_* 
 
-#Journeymap
 !journeymap/
 journeymap/*
 !journeymap/config/
 !journeymap/config/*
 
-#Figura
 !figura/
 figura/*
 !figura/cache/

@@ -11,14 +11,14 @@
 		"alwaysCheck": false
 	},
 	"visual": {
-		"perspective": "INSIDE",
+		"perspective": "THIRD_PERSON",
 		"showPlayer": true,
 		"showHand": false,
 		"fullBright": false,
 		"showSubmersion": false
 	},
 	"utility": {
-		"disableOnDamage": true,
+		"disableOnDamage": false,
 		"freezePlayer": false,
 		"allowInteract": false,
 		"interactionMode": "CAMERA"

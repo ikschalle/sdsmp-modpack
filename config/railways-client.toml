@@ -42,7 +42,7 @@
 			spawnFasterPuffs = true
 			#.
 			#Spawn steam on an interval
-			spawnSteam = false
+			spawnSteam = true
 
 		#.
 		#Old-style Smoke Settings
