@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "create:item/schedule"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "sd_resources:item/stamp1"
+    },
+
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "sd_resources:item/stamp2"
+    },
+
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "sd_resources:item/stamp3"
+    },
+
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "sd_resources:item/stamp4"
+    }
+
+  ]
+}

@@ -1,0 +1,8 @@
+{
+    "entity.vargr.howl": {
+        "category": "player",
+        "sounds": [
+            "sd_origins:vargr/mag_howl"
+        ]
+    }
+}
