@@ -1,0 +1,37 @@
+{
+	"minecraft:dirt_path": "dirt",
+	
+	"minecraft:warped_nylium": "grass,organic_dry",
+	"minecraft:warped_stairs": "wood",
+	"minecraft:warped_button[face=floor].foliage": "wood",
+	"minecraft:warped_fence_gate.bigger": "bluntwood",
+	"minecraft:warped_fence.bigger": "bluntwood",
+	"minecraft:warped_pressure_plate": "wood",
+	"minecraft:warped_pressure_plate.carpet": "wood",
+	"minecraft:warped_planks": "wood",
+	"minecraft:warped_slab": "wood",
+	"minecraft:warped_trapdoor": "bluntwood",
+	"minecraft:warped_door": "bluntwood",
+	"minecraft:stripped_warped_stem": "wood",
+	"minecraft:stripped_warped_hyphae": "wood",
+	"#minecraft:warped_stems": "wood",
+	
+	"minecraft:crimson_nylium": "grass,organic_dry",
+	"minecraft:crimson_stairs": "wood",
+	"minecraft:crimson_button[face=floor].foliage": "wood",
+	"minecraft:crimson_fence_gate.bigger": "bluntwood",
+	"minecraft:crimson_fence.bigger": "bluntwood",
+	"minecraft:crimson_pressure_plate": "wood",
+	"minecraft:crimson_pressure_plate.carpet": "wood",
+	"minecraft:crimson_planks": "wood",
+	"minecraft:crimson_slab": "wood",
+	"minecraft:crimson_trapdoor": "bluntwood",
+	"minecraft:crimson_door": "bluntwood",
+	"minecraft:stripped_crimson_stem": "wood",
+	"minecraft:stripped_crimson_hyphae": "wood",
+	"#minecraft:crimson_stems": "wood",
+	
+	"minecraft:shroomlight": "crumblystone",
+
+	"naturalist:glow_goop": "NOT_EMITTER"
+}

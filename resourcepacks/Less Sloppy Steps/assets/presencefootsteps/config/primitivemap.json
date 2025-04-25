@@ -1,0 +1,8 @@
+{
+	"minecraft:block.nylium.step": "grass,organic_dry",
+	"minecraft:block.shroomlight.step": "crumblystone",
+	"minecraft:block.stem.step": "wood",
+	"minecraft:block.froglight.step": "crumblystone",
+	"minecraft:block.nether_wood_hanging_sign.step": "bluntwood",
+	"minecraft:block.nether_wood.step": "wood"	
+}
